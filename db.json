@@ -1,4 +1,8 @@
 {
+  "movies": [
+    { "id": 1, "title": "Garudan", "language": "Tamil" },
+    { "id": 2, "title": "PT sir", "language": "Tamil" }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
