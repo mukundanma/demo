@@ -1,7 +1,19 @@
 {
   "movies": [
-    { "id": 1, "title": "Garudan", "language": "Tamil" },
-    { "id": 2, "title": "PT sir", "language": "Tamil" }
+    {
+      "id": 1,
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/garudan-et00398974-1716363155.jpg",
+      "title": "Garudan",
+      "certificate": "U/A",
+      "language": "Tamil"
+    },
+    {
+      "id": 2,
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/pt-sir-et00398799-1716191249.jpg",
+      "title": "PT sir",
+      "certificate": "U",
+      "language": "Tamil"
+    }
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
